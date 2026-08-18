@@ -19,7 +19,7 @@
 
 <a href="https://nyuki6589.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
 <a href="mailto:nyuki6589@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
-<a href="https://github.com/nyuki6589"><img src="https://img.shields.io/badge/💻_GitHub-nyuki6589-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
+<a href="https://github.com/yukinakamura1221"><img src="https://img.shields.io/badge/💻_GitHub-nyuki6589-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
 
 </div>
 
@@ -214,7 +214,7 @@ Customized online storefronts and implemented modern e-commerce features for bet
 <div align="center">
 
 <a href="mailto:nyuki6589@gmail.com"><img src="https://img.shields.io/badge/Email-nyuki6589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/nyuki6589"><img src="https://img.shields.io/badge/GitHub-nyuki6589-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/yukinakamura1221"><img src="https://img.shields.io/badge/GitHub-nyuki6589-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://nyuki6589.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br/><br/>
