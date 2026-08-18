@@ -2,9 +2,13 @@
 
 # YUKI NAKAMURA
 
-**Frontend Developer • Full Stack Developer**
+**AI-Powered Full-Stack & Mobile Developer**
 
-📍 Akashi, Hyogo, Japan &nbsp;•&nbsp; 🔗 [github.com/yukinakamura1221](https://github.com/yukinakamura1221) &nbsp;•&nbsp; 🌐 [yuki1221.netlify.app](https://yuki1221.netlify.app)
+Building intelligent digital products with AI, modern web technologies, and mobile experiences.
+
+📍 Akashi, Hyogo, Japan &nbsp;•&nbsp;
+🔗 [github.com/yukinakamura1221](https://github.com/yukinakamura1221) &nbsp;•&nbsp;
+🌐 [yuki1221.netlify.app](https://yuki1221.netlify.app)
 
 </div>
 
@@ -13,66 +17,145 @@
 ## ✨ ABOUT ME
 ─────────────────────────────────────────────────────────────────────────────────────
 
-Creative and detail-oriented Frontend Developer specializing in building clean, responsive, and user-friendly web applications. Experienced with modern web technologies including JavaScript, TypeScript, React, Angular, HTML, CSS, and Node.js. Passionate about transforming ideas into efficient digital experiences with strong attention to performance, usability, and maintainable code.
+I am an AI-Powered Full-Stack & Mobile Developer specializing in building modern web applications, mobile applications, and intelligent digital experiences.
+
+With a strong foundation in Computer Science and experience across frontend, backend, and mobile development, I transform ideas into scalable products using technologies such as React, React Native, TypeScript, Node.js, and AI-powered solutions.
+
+I am passionate about artificial intelligence, user-focused design, and creating software that solves real-world problems through clean architecture, efficient development, and innovative technology.
+
+Currently open to:
+
+**Full-Time · Contract · Freelance · Remote · International Opportunities**
 
 ## ⚡ TECHNICAL SKILLS
 ─────────────────────────────────────────────────────────────────────────────────────
 
-🎨 **Frontend:** Angular, React, React Native, JavaScript, TypeScript, HTML5, CSS3, SCSS
+🤖 **AI & Intelligent Applications**
+- AI-powered application development
+- AI integration and automation
+- AI-assisted software engineering
+- Intelligent product concepts
 
-⚙️ **Backend:** Node.js, PHP, Laravel, REST API Integration
+🎨 **Frontend Development**
+- React
+- Angular
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- SCSS
+- Responsive Design
+- Component Architecture
 
-💻 **Programming Languages:** Python, C#, JavaScript, TypeScript
+📱 **Mobile Development**
+- React Native
+- Android Development
+- Cross-platform Mobile Applications
+- Mobile UI/UX Design
 
-🛍️ **E-commerce:** Shopify, Shopify Theme Development
+⚙️ **Backend Development**
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- REST API Development
+- Database Integration
 
-🎯 **UI/UX & Design:** Figma, Photoshop, Responsive Design, Design Systems
+🗄️ **Database & Data**
+- MySQL
+- SQL
+- Database Design Fundamentals
 
-🎮 **Game Development:** Unity, C# Game Development
+🛍️ **E-Commerce Development**
+- Shopify Development
+- Shopify Theme Customization
+- E-commerce Solutions
 
-🔧 **Tools & Workflow:** Git, GitHub, Vite, VS Code
+🎨 **UI/UX & Design**
+- Figma
+- Photoshop
+- Design Systems
+- User Experience Optimization
 
-💡 **Other:** AI-assisted development, Web Applications, Database fundamentals
+🎮 **Additional Technologies**
+- Unity
+- C#
+- C++
+- Python
+
+🔧 **Tools & Workflow**
+- Git
+- GitHub
+- VS Code
+- Vite
+- Modern Development Workflow
 
 ## 🎓 EDUCATION
 ─────────────────────────────────────────────────────────────────────────────────────
 
-▎**2019 — 2023** &nbsp;&nbsp;Tokyo Institute of Technology
-Bachelor's Degree in Computer Science
+▎**2019 — 2023** &nbsp;&nbsp; Tokyo Institute of Technology
+
+**Bachelor's Degree in Computer Science**
+
+Focused on software engineering, programming, algorithms, and computer science fundamentals.
 
 ## 💼 PROFESSIONAL EXPERIENCE
 ─────────────────────────────────────────────────────────────────────────────────────
 
-▎**2023 — 2025** &nbsp;&nbsp;Frontend Developer
+▎**2023 — Dec 2025** &nbsp;&nbsp; Frontend Developer
+
 *Full-time Position*
 
-▸ Developed responsive web applications using modern frontend technologies
-▸ Created reusable UI components and maintained scalable frontend architecture
-▸ Integrated APIs and improved application performance and usability
-▸ Collaborated with designers and developers to deliver high-quality products
+▸ Developed responsive and scalable web applications using modern frontend technologies.
+
+▸ Built reusable components and maintained clean frontend architectures.
+
+▸ Integrated APIs and improved application performance, usability, and user experience.
+
+▸ Collaborated with designers and developers to deliver reliable digital products.
+
+▸ Applied modern development practices to create maintainable software solutions.
 
 ## 🚀 FEATURED PROJECTS
 ─────────────────────────────────────────────────────────────────────────────────────
 
-🌐 **Personal Developer Portfolio Website**
-Designed and developed a modern responsive portfolio website with reusable components and optimized user experience.
+🤖 **AI-Powered Applications**
 
-💰 **Crypto Wallet Manager App**
-Designed a digital asset management application concept focusing on clean UI, mobile experience, and modern application architecture.
+Exploring intelligent software solutions by combining AI technologies with modern full-stack architectures.
 
-🛒 **Shopify E-commerce Development**
-Customized storefront interfaces and implemented e-commerce features.
+📱 **Crypto Wallet Manager Mobile App**
+
+Designed a mobile-first digital asset management application concept using modern UI patterns and scalable application architecture.
+
+🌐 **Developer Portfolio Platform**
+
+Built a modern personal portfolio showcasing AI, full-stack, and mobile development capabilities with responsive design and interactive experiences.
+
+🛒 **Shopify E-commerce Solutions**
+
+Customized online storefronts and implemented modern e-commerce features for better user experiences.
 
 ## 🌍 LANGUAGES
 ─────────────────────────────────────────────────────────────────────────────────────
 
 🇯🇵 **Japanese** — Native
-🇺🇸 **English** — Professional working proficiency
+
+🇺🇸 **English** — Professional Working Proficiency
+
+## 🎯 CURRENT INTERESTS
+─────────────────────────────────────────────────────────────────────────────────────
+
+- Artificial Intelligence
+- Full-Stack Product Development
+- Mobile Applications
+- SaaS Platforms
+- Developer Tools
+- Startup Technology
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-✦ *"Turning creative ideas into exceptional digital experiences"* ✦
+✦ *"Building intelligent products that connect technology and human experiences."* ✦
 
 </div>
