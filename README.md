@@ -8,7 +8,7 @@ Building intelligent digital products with AI, modern web technologies, and mobi
 
 📍 Akashi, Hyogo, Japan &nbsp;•&nbsp;
 🔗 [github.com/yukinakamura1221](https://github.com/yukinakamura1221) &nbsp;•&nbsp;
-🌐 [yuki1221.netlify.app](https://yuki1221.netlify.app)
+🌐 https://yuki-nakamura-portfolio.netlify.app/
 
 </div>
 
