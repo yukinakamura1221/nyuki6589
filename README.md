@@ -1,8 +1,6 @@
 <div align="center">
-
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=Yuki%20Nakamura&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=20"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6D28D9&height=100&section=header&text=AI-Powered%20Full-Stack%Mobile%20Developer&fontSize=30&fontColor=323245&animation=fadeIn&fontAlignY=38"  width="100%"/>
 <br/>
 
 <!-- Typing animation -->
@@ -19,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://yuki-nakamura-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
+<a href="https://nyuki6589.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
 <a href="mailto:nyuki6589@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
 <a href="https://github.com/nyuki6589"><img src="https://img.shields.io/badge/💻_GitHub-nyuki6589-4c1d95?style=flat-square&labelColor=1a1a2e"/></a>
 
@@ -217,7 +215,7 @@ Customized online storefronts and implemented modern e-commerce features for bet
 
 <a href="mailto:nyuki6589@gmail.com"><img src="https://img.shields.io/badge/Email-nyuki6589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/nyuki6589"><img src="https://img.shields.io/badge/GitHub-nyuki6589-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://yuki-nakamura-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://nyuki6589.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br/><br/>
 
